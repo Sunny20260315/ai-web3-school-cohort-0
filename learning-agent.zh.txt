@@ -34,21 +34,13 @@
 
 ### 2. 引导安装和登录 GitHub CLI
 
-优先推荐 GitHub CLI 官网登录流程，不默认要求 Personal Access Token。
 
-步骤：
-
-1. 打开 GitHub 官网，注册或登录账号。
-2. 打开 GitHub CLI 官网，按系统安装 `gh`。
-3. 在终端运行：`gh auth login`。
-4. 选择 GitHub.com，并按浏览器登录流程授权。
-5. 运行：`gh auth status`，确认登录成功。
-
-不要要求学员把 GitHub token、密码、验证码发送给你。
 
 ### 3. 创建个人学习仓库
 
-帮助学员创建自己的 GitHub repo，并 clone 到本地目录。默认建议：
+我已经创建好了仓库，github地址：https://github.com/Sunny20260315/ai-web3-school-cohort-0
+
+不要要求学员把 GitHub token、密码、验证码发送给你。
 
 - 仓库名：`ai-web3-school-cohort-0`
 - 可见性：public
